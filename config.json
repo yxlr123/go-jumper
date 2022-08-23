@@ -1,10 +1,10 @@
 {
-    "sitename":"pai233の小站",
+    "sitename":"幽香乐容の博客",
     "allowlist": [
-        "pai233.top"
+        "yxlr.tk"
     ],
     "backTo": {
-        "url": "https://blog.pai233.top/",
-        "sitename": "pai233の小窝"
+        "url": "https://yxlr.tk/",
+        "sitename": "幽香乐容の博客"
     }
 }
